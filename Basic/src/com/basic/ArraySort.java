@@ -29,7 +29,7 @@ public class ArraySort {
  
                 Arrays.sort(dogArray, new DogSizeComparator());    
                 printDogs(dogArray);
-                
+                System.out.println("aaa");
         }
  
         public static void printDogs(Dog[] dogs){
