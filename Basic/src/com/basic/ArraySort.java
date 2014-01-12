@@ -30,7 +30,7 @@ public class ArraySort {
                 Arrays.sort(dogArray, new DogSizeComparator());    
                 printDogs(dogArray);
                 
-                System.out.println("add test code");
+                System.out.println("add test code!!");
         }
  
         public static void printDogs(Dog[] dogs){
